@@ -1,0 +1,2 @@
+,tn,fp,fn,tp,acc,ppv,tpr,fpr,forr,tnr,fnr,fdr,npv,f1,lrp,lrn,lift,youden
+0,1781,0,0,101,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,inf,0.0,18.633663366336634,1.0
